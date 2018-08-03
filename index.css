@@ -1,0 +1,51 @@
+/* Header Style */
+
+.third-width {
+  width: 400px;
+  float:left;
+}
+
+/* ==== Header ==== */
+
+header {
+  height: 25px;
+  background: lightblue  ;
+  background-size: cover;
+}
+
+header h1 {
+  padding: 50px 0;
+}
+
+nav {
+  float:right;
+  padding: 75px 40px;
+}
+
+nav ul li {
+  display: inline-block;
+  text-transform: capitalize;
+  text-decoration: underline;
+  font-size: 15px;
+  font: Georgia;
+  color: scarlet;
+  padding-left: 80px;
+}
+
+
+  header h2 {
+    width: 50%;
+    clear: both;
+    font-family: Helvetica;
+    line-height: normal;
+    color: lightblue;
+    padding: 10px;
+}
+
+header h2 span {
+  color: red;
+}
+
+
+
+
